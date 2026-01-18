@@ -1,0 +1,83 @@
+{
+  "year": 2017,
+  "total_images": 11,
+  "images": [
+    {
+      "page": 1,
+      "index": 1,
+      "filename": "page1_img1.png",
+      "width": 232,
+      "height": 231
+    },
+    {
+      "page": 1,
+      "index": 2,
+      "filename": "page1_img2.png",
+      "width": 259,
+      "height": 140
+    },
+    {
+      "page": 1,
+      "index": 3,
+      "filename": "page1_img3.png",
+      "width": 266,
+      "height": 133
+    },
+    {
+      "page": 1,
+      "index": 4,
+      "filename": "page1_img4.png",
+      "width": 265,
+      "height": 139
+    },
+    {
+      "page": 1,
+      "index": 5,
+      "filename": "page1_img5.png",
+      "width": 259,
+      "height": 133
+    },
+    {
+      "page": 2,
+      "index": 1,
+      "filename": "page2_img1.png",
+      "width": 156,
+      "height": 114
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "filename": "page3_img1.png",
+      "width": 373,
+      "height": 253
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "filename": "page5_img1.png",
+      "width": 290,
+      "height": 309
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "filename": "page5_img2.png",
+      "width": 421,
+      "height": 292
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "filename": "page6_img1.png",
+      "width": 417,
+      "height": 260
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "filename": "page7_img1.jpeg",
+      "width": 1202,
+      "height": 961
+    }
+  ]
+}
