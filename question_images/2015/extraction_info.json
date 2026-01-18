@@ -1,0 +1,132 @@
+{
+  "year": 2015,
+  "total_images": 18,
+  "images": [
+    {
+      "page": 1,
+      "index": 1,
+      "filename": "page1_img1.png",
+      "width": 263,
+      "height": 174
+    },
+    {
+      "page": 2,
+      "index": 1,
+      "filename": "page2_img1.png",
+      "width": 351,
+      "height": 149
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "filename": "page3_img1.png",
+      "width": 271,
+      "height": 337
+    },
+    {
+      "page": 4,
+      "index": 1,
+      "filename": "page4_img1.png",
+      "width": 154,
+      "height": 237
+    },
+    {
+      "page": 4,
+      "index": 2,
+      "filename": "page4_img2.png",
+      "width": 361,
+      "height": 228
+    },
+    {
+      "page": 4,
+      "index": 3,
+      "filename": "page4_img3.png",
+      "width": 351,
+      "height": 214
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "filename": "page5_img1.png",
+      "width": 644,
+      "height": 205
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "filename": "page5_img2.png",
+      "width": 328,
+      "height": 234
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "filename": "page5_img3.png",
+      "width": 357,
+      "height": 250
+    },
+    {
+      "page": 5,
+      "index": 4,
+      "filename": "page5_img4.png",
+      "width": 334,
+      "height": 217
+    },
+    {
+      "page": 5,
+      "index": 5,
+      "filename": "page5_img5.png",
+      "width": 346,
+      "height": 238
+    },
+    {
+      "page": 5,
+      "index": 6,
+      "filename": "page5_img6.png",
+      "width": 356,
+      "height": 213
+    },
+    {
+      "page": 5,
+      "index": 7,
+      "filename": "page5_img7.png",
+      "width": 362,
+      "height": 208
+    },
+    {
+      "page": 5,
+      "index": 8,
+      "filename": "page5_img8.png",
+      "width": 623,
+      "height": 170
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "filename": "page6_img1.png",
+      "width": 190,
+      "height": 213
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "filename": "page7_img1.png",
+      "width": 160,
+      "height": 225
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "filename": "page7_img2.png",
+      "width": 161,
+      "height": 138
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "filename": "page8_img1.png",
+      "width": 1654,
+      "height": 2339
+    }
+  ]
+}
